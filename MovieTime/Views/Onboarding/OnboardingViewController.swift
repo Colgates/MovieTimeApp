@@ -43,7 +43,7 @@ final class OnboardingViewController: UIViewController {
     }()
     
     private var slides = [
-        OnBoardingSlide(description: "Don't know what movie to watch tonight?", image: OnboardingSlidesImages.slide1),
+        OnBoardingSlide(description: "Don't you know what movie to watch tonight?", image: OnboardingSlidesImages.slide1),
         OnBoardingSlide(description: "Enjoy our database. Discover new movies.", image: OnboardingSlidesImages.slide2),
         OnBoardingSlide(description: "Save it to your personal watchlist.", image: OnboardingSlidesImages.slide3)
     ]
