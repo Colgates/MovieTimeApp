@@ -1,7 +1,7 @@
 # SimpleDrawingApp
 ![alt text](img/MovieTime_Frame_1920_1080.webp)
 # Description
-App fetch data from imdb API and allows you to create your personal watchlist
+This is an application for viewing information about films, it is possible to view the biographies of actors. And also save them in your watchlist, so as not to forget. It uses the imdb API service.
 
 ## Built With
 - Swift
