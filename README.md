@@ -1,4 +1,4 @@
-# SimpleDrawingApp
+# MovieTimeApp
 ![alt text](img/MovieTime_Frame_1920_1080.webp)
 # Description
 This is an application for viewing information about films, it is possible to view the biographies of actors. And also save them in your watchlist, so as not to forget. It uses the imdb API service.
